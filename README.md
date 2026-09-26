@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Živjo!
 
-<!--
-**viktorxx12/viktorxx12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sem Viktor in to je moj GitHub profil.
 
-Here are some ideas to get you started:
+## 🎬 O meni
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎥 Zanimam se za video editing
+* 💻 Rad raziskujem digitalno ustvarjanje
+* 🚀 Učim se novih stvari in preizkušam različna orodja
+
+## 🎯 Moj cilj
+
+Ustvarjati vedno boljše videe in razvijati svoje digitalne spretnosti.
+
+## 📂 Moji projekti
+
+Na GitHubu bom objavljal svoje projekte in stvari, ki se jih učim.
+
+> 🎬 Turning ideas into videos
+
