@@ -1,20 +1,19 @@
-# 👋 Živjo!
+# 👋 Hi!
 
-Sem Viktor in to je moj GitHub profil.
+I'm Viktor, and this is my GitHub profile.
 
-## 🎬 O meni
+## 🎬 About Me
 
-* 🎥 Zanimam se za video editing
-* 💻 Rad raziskujem digitalno ustvarjanje
-* 🚀 Učim se novih stvari in preizkušam različna orodja
+* 🎥 I'm interested in video editing
+* 💻 I enjoy exploring digital creativity
+* 🚀 I'm learning new things and trying out different tools
 
-## 🎯 Moj cilj
+## 🎯 My Goal
 
-Ustvarjati vedno boljše videe in razvijati svoje digitalne spretnosti.
+To create better videos and develop my digital skills.
 
-## 📂 Moji projekti
+## 📂 My Projects
 
-Na GitHubu bom objavljal svoje projekte in stvari, ki se jih učim.
+I'll be sharing my projects and the things I learn on GitHub.
 
 > 🎬 Turning ideas into videos
-
