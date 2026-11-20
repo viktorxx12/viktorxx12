@@ -14,6 +14,7 @@ To create better videos and develop my digital skills.
 
 ## 📂 My Projects
 
-I'll be sharing my projects and the things I learn on GitHub.
+* 🎬 [Video Editing Guide – live website](https://viktorxx12.github.io/video-editing-guide/)
+* 💻 [View the repository](https://github.com/viktorxx12/video-editing-guide)
 
 > 🎬 Turning ideas into videos
