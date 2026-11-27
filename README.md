@@ -16,5 +16,6 @@ To create better videos and develop my digital skills.
 
 * 🎬 [Video Editing Guide – live website](https://viktorxx12.github.io/video-editing-guide/)
 * 💻 [View the repository](https://github.com/viktorxx12/video-editing-guide)
+* 📊 [My Canva presentation – Moj prvi digitalni sled](https://canva.link/hj9xasa1avxd93q)
 
 > 🎬 Turning ideas into videos
